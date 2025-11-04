@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SynologyDrive\\Gin\\My Project\\U-up\\U-up\\U-up.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\getapidata\\U-up.csproj": {}
   },
   "projects": {
-    "D:\\SynologyDrive\\Gin\\My Project\\U-up\\U-up\\U-up.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\getapidata\\U-up.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SynologyDrive\\Gin\\My Project\\U-up\\U-up\\U-up.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\getapidata\\U-up.csproj",
         "projectName": "U-up",
-        "projectPath": "D:\\SynologyDrive\\Gin\\My Project\\U-up\\U-up\\U-up.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\getapidata\\U-up.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\SynologyDrive\\Gin\\My Project\\U-up\\U-up\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\getapidata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
