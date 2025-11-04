@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\fabu\U-up.exe
+C:\Users\Administrator\Desktop\fabu\U-up.dll
+C:\Users\Administrator\Desktop\fabu\U-up.deps.json
+C:\Users\Administrator\Desktop\fabu\U-up.runtimeconfig.json
+C:\Users\Administrator\Desktop\fabu\U-up.pdb
+C:\Users\Administrator\Desktop\fabu\Newtonsoft.Json.dll

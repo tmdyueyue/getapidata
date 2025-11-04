@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>U-up</id>
+    <version>1.0.0</version>
+    <authors>U-up</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e3572905475530e6f1e03a21cff2738d5c61f000" />
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.runtimeconfig.json" target="lib\net5.0\U-up.runtimeconfig.json" />
+    <file src="D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.dll" target="lib\net5.0\U-up.dll" />
+  </files>
+</package>

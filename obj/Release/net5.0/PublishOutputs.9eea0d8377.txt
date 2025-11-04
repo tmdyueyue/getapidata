@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\打包\U-up.exe
+C:\Users\Administrator\Desktop\打包\U-up.dll
+C:\Users\Administrator\Desktop\打包\U-up.deps.json
+C:\Users\Administrator\Desktop\打包\U-up.runtimeconfig.json
+C:\Users\Administrator\Desktop\打包\U-up.pdb
+C:\Users\Administrator\Desktop\打包\Newtonsoft.Json.dll

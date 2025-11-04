@@ -1,0 +1,6 @@
+C:\Users\tmdyu\Desktop\新建文件夹\U-up.exe
+C:\Users\tmdyu\Desktop\新建文件夹\U-up.dll
+C:\Users\tmdyu\Desktop\新建文件夹\U-up.deps.json
+C:\Users\tmdyu\Desktop\新建文件夹\U-up.runtimeconfig.json
+C:\Users\tmdyu\Desktop\新建文件夹\U-up.pdb
+C:\Users\tmdyu\Desktop\新建文件夹\Newtonsoft.Json.dll

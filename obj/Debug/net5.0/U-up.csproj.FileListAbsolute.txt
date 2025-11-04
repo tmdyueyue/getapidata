@@ -1,0 +1,109 @@
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\U-up.exe
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\U-up.deps.json
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\U-up.runtimeconfig.json
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\U-up.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\U-up.dll
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.dll
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\U-up\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\U-up\obj\Debug\net5.0\U-up.csproj.CopyComplete
+C:\Users\Administrator\U-up\bin\Debug\net5.0\U-up.exe
+C:\Users\Administrator\U-up\bin\Debug\net5.0\U-up.deps.json
+C:\Users\Administrator\U-up\bin\Debug\net5.0\U-up.runtimeconfig.json
+C:\Users\Administrator\U-up\bin\Debug\net5.0\U-up.runtimeconfig.dev.json
+C:\Users\Administrator\U-up\bin\Debug\net5.0\U-up.dll
+C:\Users\Administrator\U-up\bin\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\U-up\bin\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\U-up\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.csproj.AssemblyReference.cache
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.AssemblyInfoInputs.cache
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.AssemblyInfo.cs
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.csproj.CopyComplete
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.dll
+C:\Users\Administrator\U-up\obj\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\U-up\obj\Debug\net5.0\U-up.genruntimeconfig.cache
+C:\Users\Administrator\U\bin\Debug\net5.0\U-up.exe
+C:\Users\Administrator\U\bin\Debug\net5.0\U-up.deps.json
+C:\Users\Administrator\U\bin\Debug\net5.0\U-up.runtimeconfig.json
+C:\Users\Administrator\U\bin\Debug\net5.0\U-up.runtimeconfig.dev.json
+C:\Users\Administrator\U\bin\Debug\net5.0\U-up.dll
+C:\Users\Administrator\U\bin\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\U\bin\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\U\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.csproj.AssemblyReference.cache
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.AssemblyInfoInputs.cache
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.AssemblyInfo.cs
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.csproj.CopyComplete
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.dll
+C:\Users\Administrator\U\obj\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\U\obj\Debug\net5.0\U-up.genruntimeconfig.cache
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\U-up.exe
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\U-up.deps.json
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\U-up.runtimeconfig.json
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\U-up.runtimeconfig.dev.json
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\U-up.dll
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\My Project\U-up\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.csproj.AssemblyReference.cache
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.AssemblyInfoInputs.cache
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.AssemblyInfo.cs
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.csproj.CopyComplete
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.dll
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\ref\U-up.dll
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.pdb
+C:\Users\Administrator\My Project\U-up\obj\Debug\net5.0\U-up.genruntimeconfig.cache
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\U-up.exe
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\U-up.deps.json
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\U-up.runtimeconfig.json
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\U-up.runtimeconfig.dev.json
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\U-up.dll
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\ref\U-up.dll
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\U-up.pdb
+D:\OneDrive\Gin\My Project\U-up\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.csproj.AssemblyReference.cache
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.AssemblyInfoInputs.cache
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.AssemblyInfo.cs
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.csproj.CoreCompileInputs.cache
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.csproj.CopyComplete
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.dll
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\ref\U-up.dll
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.pdb
+D:\OneDrive\Gin\My Project\U-up\obj\Debug\net5.0\U-up.genruntimeconfig.cache
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.csproj.AssemblyReference.cache
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.GeneratedMSBuildEditorConfig.editorconfig
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.AssemblyInfoInputs.cache
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.AssemblyInfo.cs
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.csproj.CoreCompileInputs.cache
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.sourcelink.json
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.dll
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.pdb
+D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.exe
+D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.deps.json
+D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.runtimeconfig.json
+D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.runtimeconfig.dev.json
+D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.dll
+D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\U-up.pdb
+D:\SynologyDrive\Gin\My Project\U-up\U-up\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.csproj.Up2Date
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\refint\U-up.dll
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\U-up.genruntimeconfig.cache
+D:\SynologyDrive\Gin\My Project\U-up\U-up\obj\Debug\net5.0\ref\U-up.dll
