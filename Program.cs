@@ -9,6 +9,8 @@ namespace U_up
     /// </summary>
     public class Program
     {
+        public static readonly object logLock = new object(); // 日志写入锁（公开，供ApiDataFetcher使用）
+
         static void Main(string[] args)
         {
             Console.WriteLine("数据抓取服务启动中，请勿关闭!");
@@ -63,33 +65,43 @@ namespace U_up
         }
 
         /// <summary>
-        /// 写入日志
+        /// 写入日志（线程安全）
         /// </summary>
         public static void WriteLog(string strLog)
         {
-            try
+            lock (logLock)
             {
-                StreamWriter stream;
-                string path = AppDomain.CurrentDomain.BaseDirectory;
-
-                if (!Directory.Exists(path))
+                try
                 {
-                    Directory.CreateDirectory(path);
-                }
+                    string path = AppDomain.CurrentDomain.BaseDirectory;
 
-                string logFile = Path.Combine(path, "log.txt");
-                stream = new StreamWriter(logFile, true, Encoding.UTF8);
-                stream.Write(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + " - " + strLog);
-                stream.Write("\r\n");
-                stream.Flush();
-                stream.Close();
-                
-                // 同时输出到控制台
-                Console.WriteLine($"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} - {strLog}");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"写入日志失败: {ex.Message}");
+                    if (!Directory.Exists(path))
+                    {
+                        Directory.CreateDirectory(path);
+                    }
+
+                    string logFile = Path.Combine(path, "log.txt");
+                    string logMessage = $"{DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} - {strLog}";
+                    
+                    // 使用File.AppendAllText，它是原子操作，更安全
+                    File.AppendAllText(logFile, logMessage + "\r\n", Encoding.UTF8);
+                    
+                    // 同时输出到控制台（控制台输出也需要加锁，避免混乱）
+                    Console.WriteLine(logMessage);
+                }
+                catch (Exception ex)
+                {
+                    // 如果写入日志失败，至少输出到控制台
+                    try
+                    {
+                        Console.WriteLine($"[日志写入失败] {DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")} - {strLog}");
+                        Console.WriteLine($"错误: {ex.Message}");
+                    }
+                    catch
+                    {
+                        // 如果连控制台输出都失败，忽略
+                    }
+                }
             }
         }
     }
